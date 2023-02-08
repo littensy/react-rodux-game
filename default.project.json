@@ -1,0 +1,26 @@
+{
+	"name": "react-rodux-game",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"shared": {
+				"$path": "src/shared"
+			},
+      "packages": {
+        "$path": "packages"
+      }
+		},
+		"ServerScriptService": {
+			"server": {
+				"$path": "src/server"
+			}
+		},
+		"StarterPlayer": {
+			"StarterPlayerScripts": {
+				"client": {
+					"$path": "src/client"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+[package]
+name = "richerd/react-rodux-game"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Promise = "evaera/promise@4.0.0"
+Net = "vorlias/net@3.0.4"
+React = "core-packages/react@17.0.1-rc.16"
+ReactRoblox = "core-packages/react-roblox@17.0.1-rc.16"
+ReactSpring = "chriscerie/react-spring@1.1.3"
+Shared = "core-packages/shared@17.0.1-rc.18"
+Rodux = "passhley/rodux@4.0.0-rc.0"
+Sift = "csqrl/sift@0.0.4"
+Janitor = "howmanysmall/janitor@1.15.1"

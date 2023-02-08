@@ -1,0 +1,1 @@
+tarmac sync --target roblox --auth \"$(<./AUTH)\"
